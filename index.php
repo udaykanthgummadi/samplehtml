@@ -1,4 +1,4 @@
 <?php
-echo "Hello World from GitHub in PHP";
+echo "<b>Site Under Maintenance</b>, we will be back soon!!";
 
 ?>
